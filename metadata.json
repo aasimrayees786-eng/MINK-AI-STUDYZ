@@ -1,0 +1,6 @@
+{
+  "name": "Mink Study",
+  "description": "Mink Study: AI study helper featuring OMR Challenge & Quiz Arena with realistic digital bubble sheets, AI mistake revision lessons, 3D AI Robot Video Teacher with synchronized holographic visuals, camera snap & solve, structured chapter notes, and multi-language voice tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
